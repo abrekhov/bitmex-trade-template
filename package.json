@@ -1,0 +1,15 @@
+{
+  "name": "bitmex",
+  "version": "1.0.0",
+  "description": "Auto stopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Anton Brekhov",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "telegraf": "^3.27.1"
+  }
+}
