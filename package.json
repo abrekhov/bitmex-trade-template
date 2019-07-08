@@ -11,5 +11,8 @@
   "dependencies": {
     "request": "^2.88.0",
     "telegraf": "^3.27.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1"
   }
 }
