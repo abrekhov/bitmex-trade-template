@@ -1,4 +1,5 @@
 #!/usr/local/bin/node
+require('dotenv').config()
 const WebSocket = require('ws')
 const ra        = require('./lib/requestApi')
 const stdin     = process.openStdin()
